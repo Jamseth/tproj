@@ -1,2 +1,4 @@
 
 Hi this is line 1.
+
+Then this one must be the second line.
